@@ -1,0 +1,16 @@
+{
+  "name": "peppy",
+  "version": "0.0.1",
+  "description": "subscribe to slots",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "everyways",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "nodemailer": "^6.9.14"
+  },
+  "type": "module"
+}
